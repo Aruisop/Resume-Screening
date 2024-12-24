@@ -10,7 +10,7 @@ A tool that simulates a mini version of an ATS screening for a users resume base
 - Using matplotlib, visualizes the resume scores.
 
 # How do I use it?
-- Just make sure to run the given code/script on either a Google Colab or a Jupyter Notebook environment.
+- Just make sure to run the given code/script on either a Google Colab environment.
 - Enter the job description, and then upload the resumes(in either PDF, DOCX or CSV).
 - The final result is displayed as a bar chart.
 
