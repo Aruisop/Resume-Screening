@@ -12,6 +12,8 @@ A tool that simulates a mini version of an ATS screening for a users resume base
 # How do I use it?
 - Just make sure to run the given code/script in a Google Colab environment.
 - Enter the job description, and then upload the resumes(in either PDF, DOCX or CSV).
+- Use any one of the demo files that have been uploaded, or use your own! But make sure that it follows the following format (i.e): .pdf .docx or .csv.
+- For a csv file, the file extracts text from the individual columns and then gives us the rank based on a cumulative assessment.
 - The final result is displayed as a bar chart.
 
 # File Dependencies
