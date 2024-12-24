@@ -15,7 +15,7 @@ A tool that simulates a mini version of an ATS screening for a users resume base
 - The final result is displayed as a bar chart.
 
 # File Dependencies
-- spacy(used for the natural language processing aspectof the code)
+- spacy(used for the natural language processing aspect of the code)
 - PyPDF2(used for text extraction from PDF)
 - docx(used for DOCX text extraction)
 - matplotlib(used to plot the bar chart)
