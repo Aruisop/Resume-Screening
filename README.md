@@ -15,6 +15,7 @@ A tool that simulates a mini version of an ATS screening for a users resume base
 - Use any one of the demo files that have been uploaded, or use your own! But make sure that it follows the following format (i.e): .pdf .docx or .csv.
 - For a csv file, the file extracts text from the individual columns and then gives us the rank based on a cumulative assessment.
 - The final result is displayed as a bar chart.
+- Final App is live here: https://resume-matcher-app-lklzrufy9vx5j38v3ijscq.streamlit.app/
 
 # File Dependencies
 - spacy(used for the natural language processing aspect of the code)
